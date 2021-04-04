@@ -44,6 +44,16 @@ optional arguments:
 There are 2 ways of providing input, either specifying the filename containing the base64 (default option) or directly pasting it in the command if the `--stdin` flag is used.
 There are also 2 ways of displaying output, either printing it to the screen (default option) or writing it to a file if the `-o` flag is used.<br><br>  
   
+## Quick Demo
+**IMPORTANT**: Make sure you save your current game somewhere safe before trying this demo. This demo is a fresh, newly started game with pumped values.  
+[Here](https://raw.githubusercontent.com/ClaraCF/clicker-heroes-cheats/main/save.b64) you can find a save file that contains a normal, new save file with 1,207 gold, 0 rubies and 0 hero souls. (You can try importing it to confirm, just **please make sure you back up your own game first!**)\.  
+
+Run the following command:
+```sh
+python main.py -g 12345 -r 67890 -s 12345 save.b64
+```
+That will print a base64 save to the screen. Copy it and import it and see the amount of gold, rubies and souls change. Play around with the values and see what happens. <br><br>  
+  
 ## Examples
  * Miscelaneous & Quick Reference
     * Check help menu
