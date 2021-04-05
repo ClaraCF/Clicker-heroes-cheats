@@ -46,7 +46,7 @@ There are also 2 ways of displaying output, either printing it to the screen (de
   
 ## Quick Demo
 **IMPORTANT**: Make sure you save your current game somewhere safe before trying this demo. This demo is a fresh, newly started game with pumped values.  
-[Here](https://raw.githubusercontent.com/ClaraCF/clicker-heroes-cheats/main/save.b64) you can find a save file that contains a normal, new save file with 1,207 gold, 0 rubies and 0 hero souls. (You can try importing it to confirm, just **please make sure you back up your own game first!**)\.  
+[Here](https://raw.githubusercontent.com/ClaraCF/Clicker-heroes-cheats/main/save.b64) you can find a save file that contains a normal, new save file with 1,207 gold, 0 rubies and 0 hero souls. (You can try importing it to confirm, just **please make sure you back up your own game first!**)\.  
 
 Run the following command:
 ```sh
