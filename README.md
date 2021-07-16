@@ -3,7 +3,10 @@ Clicker Heroes 1 comes with an export feature which provides the player with a b
 This one can be abused to tweak its values and grant the player an advantage\.  
 This repo has a python script that facilitates the auditing process of this game, taking the user's base64 encoded save file, modifying it at will and generating a new file which the player can then import to their game\.  
   
-![Have a nice day ♥](https://img.shields.io/static/v1?label=Hey~&message=Have%20A%20Nice%20Day%20♥&color=blueviolet) &nbsp; ![GitHub last commit](https://img.shields.io/github/last-commit/ClaraCF/clicker-heroes-cheats?color=ff7fff) &nbsp; ![GitHub](https://img.shields.io/github/license/ClaraCF/clicker-heroes-cheats)<br><br>  
+![GitHub last commit](https://img.shields.io/github/last-commit/ClaraCF/clicker-heroes-cheats?color=ff7fff) 
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/Claracf/Clicker-heroes-cheats) 
+![GitHub License](https://img.shields.io/github/license/ClaraCF/clicker-heroes-cheats) 
+![Have a nice day ♥](https://img.shields.io/static/v1?label=Hey~&message=Have%20A%20Nice%20Day%20♥&color=blueviolet) <br><br>  
   
 ## Disclaimer
 My intentions do not lie upon destroying or causing harm of any kind to the studio who developed the game, Playsaurus.  
